@@ -4,7 +4,6 @@
 
 Backend Developer
 ------------------
-I've been working IT since 2021 on various technologies such as SpringBoot, Microservices, Python, JavaScript etc.
 * 🌍  I'm based in Pune, India
 * 🧠  I'm learning AWS
 * 🤝  I'm open to collaborating on Java, Python based project
