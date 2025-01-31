@@ -5,7 +5,7 @@
 Backend Developer
 ------------------
 * 🌍  I'm based in Pune, India
-* 🧠  I'm learning AWS
+* 🧠  I'm Aws Associate Certified Developer 
 * 🤝  I'm open to collaborating on Java, Python based project
 ************************************************************************************
 
